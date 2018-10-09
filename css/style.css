@@ -1,0 +1,213 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Lato', sans-serif;
+}
+
+.clear {
+    clear: both;
+}
+
+.container {
+    width: 1180px;
+    height: auto;
+    padding: 60px 0;
+    margin: 0 auto;
+    text-align: center;
+}
+.heroContainer {
+    width: 1180px;
+    height: auto;
+    margin: 0 auto;
+    padding-top: 20px;
+    padding-bottom: 245px;
+    text-align: center;
+}
+
+.hero {
+    width: 100%;
+    height: auto;
+    background-image: url(../img/hero_BG.png);
+    background-repeat: no-repeat;
+}
+
+.logo {
+    float: left;
+}
+
+.sign {
+    float: right;
+    padding-top: 40px;
+}
+
+.sign a {
+    margin-left: 30px;
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+}
+
+.sign a:hover {
+    color: black;
+}
+
+.heroContainer h1 {
+    color: #fff;
+    opacity: 0.7;
+    margin: 0;
+    padding-top: 200px;
+}
+
+.heroContainer h2 {
+    color: #fff;
+    font-size: 72px;
+    margin: 0;
+}
+
+.btn {
+    color: white;
+    display: inline-block;
+    padding: 20px 75px;
+    border: 3px solid white;
+    border-radius: 5px;
+    text-decoration: none;
+    margin-top: 40px;
+    transition-duration: 0.3s;
+}
+
+.btn:hover {
+    background-color: #fff;
+    color: black;
+    transition-duration: 0.3s;
+}
+
+.heroContainer p {
+    color: white;
+    font-size: 12px;
+}
+
+.a1 {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+    border-bottom: 1px solid white;
+}
+
+.rewards {
+    float: left;
+    width: calc(100% / 3)
+}
+
+.rewards h3 {
+    margin: 5px 0 0 0;
+}
+
+.rewards img {
+    margin: 0;
+}
+
+.phoneSection {
+    background-color: #f7f7f7;
+}
+
+.phone {
+    float: left;
+    width: 50%;
+}
+
+.pRight {
+    text-align: left;
+    padding: 30px 0 0 50px;
+    box-sizing: border-box;
+}
+
+.intrudocingSection {
+    width: 100%;
+    height: auto;
+    background-image: url(../img/BG2.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.intrudocingSection img {
+    margin: 0;
+}
+
+.intrudocingSection h2 {
+    margin: 0;
+    font-size: 16px;
+}
+
+.intrudocingSection span {
+    display: block;
+    margin-top: 180px;
+    font-weight: bold;
+}
+
+.recipes {
+    float: left;
+    width: 20%;
+}
+
+.recipesImg {
+    position: absolute;
+}
+
+.recipesTxt {
+    color: #fff;
+    position: relative;
+    left: -531px;
+    top: 76px;
+    text-align: center;
+}
+
+.recipesTxt span {
+    font-size: 12px;
+    margin: 0;
+}
+
+.recipesTxt h3 {
+    font-size: 32px;
+    margin: 0;
+}
+
+.statisticsSection {
+    width: 1180px;
+    margin: 0 auto;
+    padding: 20px 0;
+}
+
+.statistics {
+    float: left;
+    width: 20%;
+    text-align: center;
+    padding: 0;
+}
+
+footer {
+    padding: 20px 0;
+    background-color: #f7f7f7;
+}
+
+.footerCon {
+    width: 1180px;
+    margin: 0 auto;
+    font-size: 12px;
+}
+
+.credit {
+    float: left;
+}
+
+.design {
+    float: right;
+}
+/*.
+.
+.
+.
+.
+.
+.
+.
+.*/
