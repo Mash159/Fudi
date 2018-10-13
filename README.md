@@ -1,4 +1,4 @@
-demo link:
+Demo link:
 https://mash159.github.io/Fudi/
 <br>
 PSD link:
